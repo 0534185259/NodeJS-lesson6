@@ -1,0 +1,37 @@
+[
+  {
+    "code": 1,
+    "name": "Yeladim",
+    "price": 30
+  },
+  {
+    "code": 2,
+    "name": "Hasochen",
+    "price": 35
+  },
+  {
+    "code": 3,
+    "name": "Al-taster",
+    "price": 85
+  },
+  {
+    "code": 4,
+    "name": "Mealalel",
+    "price": 120
+  },
+  {
+    "code": 5,
+    "name": "My-Family",
+    "price": 100
+  },
+  {
+    "code": 6,
+    "name": "Learn JavaScript",
+    "price": 180
+  },
+  {
+    "code": 6,
+    "name": "Learn JS",
+    "price": 150
+  }
+]

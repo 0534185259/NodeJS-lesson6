@@ -1,0 +1,25 @@
+[
+  {
+    "code": 1,
+    "nameUser": "Rachel",
+    "password": 123
+  },
+  {
+    "code": 2,
+    "nameUser": "Naama",
+    "password": 456
+  },
+  {
+    "code": 3,
+    "nameUser": "Mmoshe",
+    "password": 789
+  },
+  {
+    "code": 4,
+    "nameUser": "Aharon",
+    "password": 101
+  },
+  {
+    "password": 456
+  }
+]
